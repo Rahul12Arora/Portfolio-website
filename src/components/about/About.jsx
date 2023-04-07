@@ -27,17 +27,17 @@ const About = () => {
             <article className="about__card">
               <GiTrophyCup className="about__icon" />
               <h5>Top Performer</h5>
-              <small>Consistently Ranked 1 In Newton Leaderboard</small>
+              <small>Consistently Ranked Among Top Performers In Newton</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>5+ Completed</small>
+              <small>4+ Completed</small>
             </article>
           </div>
           <p>
-            I am Abhideep Ghosh, a Full Stack Web Developer. My passion lies in
+            I am Rahul Arora, a Full Stack Web Developer. My passion lies in
             solving complex problems with tailored data and algorithms and
             creating stunning websites. I have been obsessed with the idea of
             using software to solve practical problems. Software engineering is

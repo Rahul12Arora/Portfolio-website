@@ -1,9 +1,9 @@
 import React from "react";
 import "./footer.css";
 import { FaCode } from "react-icons/fa";
-import { FiFacebook } from "react-icons/fi";
+import { BsMedium } from "react-icons/bs";
+import { BsLinkedin } from "react-icons/bs";
 import { BsInstagram } from "react-icons/bs";
-import { FiTwitter } from "react-icons/fi";
 const Footer = () => {
   return (
     <footer id="footer">
@@ -36,19 +36,19 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.facebook.com/abhideeprocks/">
-          <FiFacebook />
+        <a href="https://medium.com/@rahul.012.arora">
+          <BsMedium />
         </a>
-        <a href="https://www.instagram.com/mrblacknightsky/">
+        <a href="https://www.linkedin.com/in/rahul012/">
+          <BsLinkedin />
+        </a>
+        <a href="https://www.instagram.com/chirpings/">
           <BsInstagram />
-        </a>
-        <a href="https://twitter.com/gabhiaf98">
-          <FiTwitter />
         </a>
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Abhideep Ghosh</small>
+        <small>&copy; Rahul Arora</small>
       </div>
     </footer>
   );
