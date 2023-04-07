@@ -16,7 +16,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>CSS & SASS</p>
+              <p>CSS</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -24,7 +24,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Tailwind CSS</p>
+              <p>React Icons</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Ant Design</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -81,15 +85,15 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Solved 300+ Leetcode Problems</p>
+              <p>Solved 200+ Leetcode & GFG Problems</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Top Performer Of The Newton Batch</p>
+              <p>Top 10 Performers Of The Newton Batch</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Part Of Newton Super 50 As One Of The Leaders.</p>
+              <p>Part Of Newton Super 50.</p>
             </li>
           </ul>
         </article>
