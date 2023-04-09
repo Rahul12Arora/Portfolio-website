@@ -19,14 +19,14 @@ const Portfolio = () => {
 
     {
       id: 2,
-      image: IMG2,
+      image: IMG3,
       title: "Admin DashBoard Planner",
       github: "https://github.com/Rahul12Arora/Admin-Dashboard-Fullstack-Master",
       demo: "https://admin-frontend-4xk1.onrender.com",
     },
     {
       id: 3,
-      image: IMG3,
+      image: IMG2,
       title: "Disney HotStar Clone - Using JavaScript, HTML & CSS",
       github: "https://github.com/Rahul12Arora/Disney-Hotstar-clone",
       demo: "https://superlative-mandazi-0759f5.netlify.app/",
