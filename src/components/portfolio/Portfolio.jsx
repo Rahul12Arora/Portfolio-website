@@ -12,47 +12,47 @@ const Portfolio = () => {
     {
       id: 1,
       image: IMG6,
-      title: "CyberNotes - Note App For Cyberpunk Fans (MERN) ",
-      github: "https://github.com/abhideepghosh/CyberNotes",
-      demo: "https://cyber-notes.netlify.app/",
+      title: "Spotify Clone - Spotify But Better",
+      github: "https://github.com/Rahul12Arora/Spotify-Master",
+      demo: "https://superb-spotify.netlify.app/",
     },
 
     {
       id: 2,
       image: IMG2,
-      title: "Disney Hotstar Clone - Using React.js",
-      github: "https://github.com/abhideepghosh/hotstar-clone",
-      demo: "https://hotstar-clone-reactjs.netlify.app/",
+      title: "Admin DashBoard Planner",
+      github: "https://github.com/Rahul12Arora/Admin-Dashboard-Fullstack-Master",
+      demo: "https://admin-frontend-4xk1.onrender.com",
     },
     {
       id: 3,
       image: IMG3,
       title: "AI Code Wizard - Using JavaScript and Express.js",
-      github: "https://github.com/abhideepghosh/open-ai-js",
-      demo: "https://aicodewizard.vercel.app/",
+      github: "https://github.com/Rahul12Arora/Disney-Hotstar-clone",
+      demo: "https://superlative-mandazi-0759f5.netlify.app/",
     },
-    {
-      id: 4,
-      image: IMG1,
-      title: "Spotify Inspired Music Player - Using React.js And Redux Toolkit",
-      github: "https://github.com/abhideepghosh/spotify-clone-react",
-      demo: "https://spotify-clone-using-react.netlify.app/",
-    },
-    {
-      id: 5,
-      image: IMG5,
-      title:
-        "Admin Dashboard Using React.js, Material UI, Nevo And fullCalendar",
-      github: "https://github.com/abhideepghosh/admin-dashboard",
-      demo: "https://teslaadmindashboard.netlify.app/",
-    },
-    {
-      id: 6,
-      image: IMG4,
-      title: "Forkify - Using JavaScript, MVC Architectural Pattern",
-      github: "https://github.com/abhideepghosh/forkify-js",
-      demo: "https://forkify-webapp-js.netlify.app/",
-    },
+    // {
+    //   id: 4,
+    //   image: IMG1,
+    //   title: "Spotify Inspired Music Player - Using React.js And Redux Toolkit",
+    //   github: "https://github.com/abhideepghosh/spotify-clone-react",
+    //   demo: "https://spotify-clone-using-react.netlify.app/",
+    // },
+    // {
+    //   id: 5,
+    //   image: IMG5,
+    //   title:
+    //     "Admin Dashboard Using React.js, Material UI, Nevo And fullCalendar",
+    //   github: "https://github.com/abhideepghosh/admin-dashboard",
+    //   demo: "https://teslaadmindashboard.netlify.app/",
+    // },
+    // {
+    //   id: 6,
+    //   image: IMG4,
+    //   title: "Forkify - Using JavaScript, MVC Architectural Pattern",
+    //   github: "https://github.com/abhideepghosh/forkify-js",
+    //   demo: "https://forkify-webapp-js.netlify.app/",
+    // },
   ];
 
   return (
