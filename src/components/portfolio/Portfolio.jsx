@@ -27,7 +27,7 @@ const Portfolio = () => {
     {
       id: 3,
       image: IMG3,
-      title: "AI Code Wizard - Using JavaScript and Express.js",
+      title: "Disney HotStar Clone - Using JavaScript, HTML & CSS",
       github: "https://github.com/Rahul12Arora/Disney-Hotstar-clone",
       demo: "https://superlative-mandazi-0759f5.netlify.app/",
     },
