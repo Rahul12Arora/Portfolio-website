@@ -30,7 +30,7 @@ const Portfolio = () => {
       title: "Disney HotStar Clone - Using JavaScript, HTML & CSS",
       github: "https://github.com/Rahul12Arora/Disney-Hotstar-clone",
       demo: "https://superlative-mandazi-0759f5.netlify.app/",
-    },
+    }
     // {
     //   id: 4,
     //   image: IMG1,
